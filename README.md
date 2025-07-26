@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Srivarshine!
 🎓 I'm a 4th-year Computer Engineering student from New Horizon College of Engineering, Bengaluru.
 
 💡 I’m passionate about:
