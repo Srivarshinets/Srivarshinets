@@ -1,16 +1,24 @@
 ## Hi there 👋
+🎓 I'm a 4th-year Computer Engineering student from New Horizon College of Engineering, Bengaluru.
 
-<!--
-**Srivarshinets/Srivarshinets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I’m passionate about:
+- Artificial Intelligence & Machine Learning
+- Cybersecurity fundamentals
+- Building web apps with clean UI/UX
 
-Here are some ideas to get you started:
+🧠 I’m currently working on:
+- A real-time Yoga Mudra Detection web app using TensorFlow, OpenCV, and Keras
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I’ve worked with:
+- Languages: Java, C, Python
+- AI/ML: TensorFlow, Keras, NumPy, OpenCV
+- Web: HTML, CSS, JavaScript
+
+📚 Certifications:
+- AI by Microsoft & SAP (TechSaksham)
+- Cybersecurity (IBM SkillsBuild)
+- Cloud Computing (NPTEL)
+
+📫 How to reach me:
+- 📧 varshinethoppe@outlook.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/srivarshine-thoppe-415ab7289/)
