@@ -3,7 +3,6 @@
 
 💡 I’m passionate about:
 - Artificial Intelligence & Machine Learning
-- Cybersecurity fundamentals
 - Building web apps with clean UI/UX
 
 🧠 I’m currently working on:
