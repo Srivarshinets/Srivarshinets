@@ -3,13 +3,13 @@
 
 💡 I’m passionate about:
 - Artificial Intelligence & Machine Learning
-- Building web apps with clean UI/UX
+- Engineering in motorsports 
 
 🧠 I’m currently working on:
-- A real-time Yoga Mudra Detection web app using TensorFlow, OpenCV, and Keras
+- Data visualization of F1 telemetry data using python, sql and power bi
 
 🛠️ Tech I’ve worked with:
-- Languages: Java, C, Python
+- Languages: Python, Java, C
 - AI/ML: TensorFlow, Keras, NumPy, OpenCV
 - Web: HTML, CSS, JavaScript
 
