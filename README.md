@@ -11,7 +11,7 @@
 🛠️ Tech I’ve worked with:
 - Languages: Python, Java, C
 - Database : MySQL
-- AI/ML: TensorFlow, Keras, NumPy, OpenCV, Matplotlib
+- AI/ML: TensorFlow, NumPy, OpenCV, Matplotlib
 - Web: HTML, CSS, JavaScript
 
 📚 Certifications:
