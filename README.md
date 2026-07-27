@@ -3,13 +3,13 @@
 
 💡 I’m passionate about:
 - Artificial Intelligence & Machine Learning
-- Engineering in motorsports 
+- Engineering in motorsports
 
 🧠 I’m currently working on:
-- Data visualization of F1 telemetry data using python, sql and power bi
+- Finance moblie app that uses an AI model to capture the details from the image of the receipt and automatically transform it to spreadsheet data.
 
 🛠️ Tech I’ve worked with:
-- Languages: Python, Java, C
+- Languages: Python, SQL
 - Database : MySQL
 - AI/ML: TensorFlow, NumPy, OpenCV, Matplotlib
 - Web: HTML, CSS, JavaScript
